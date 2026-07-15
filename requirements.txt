@@ -1,0 +1,4 @@
+flask>=2.3.0
+flask-socketio>=5.3.6
+werkzeug>=2.3.0
+pyngrok>=7.0.0
