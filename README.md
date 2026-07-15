@@ -143,5 +143,3 @@ chmod 600 chat.db
 
 
 ---
-
-*Made with Python 🐍 — Oasis Chat — Task 5 Advanced Tier*
